@@ -1,0 +1,3 @@
+const encaminhaRespostaSAC = () => {
+    return "lala"
+};

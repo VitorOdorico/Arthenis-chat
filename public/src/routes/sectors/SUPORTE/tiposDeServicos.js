@@ -1,0 +1,3 @@
+const encaminhaRespostaSUPORTE = () => {
+    return "lala"
+};
